@@ -15,5 +15,5 @@
  * Administrator assigns user to a event
  * Administrator deletes event
  * Administrator edits schedule to delete user from an event
-
-[alt text](https://github.com/graham-graham/IS437-Project-Graham/blob/master/image%20(22).png)
+ 
+[schema](https://github.com/graham-graham/IS437-Project-Graham/blob/master/image%20(22).png)
