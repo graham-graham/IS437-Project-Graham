@@ -16,4 +16,4 @@
  * Administrator deletes event
  * Administrator edits schedule to delete user from an event
 
-![](images/image%20(22).png
+[alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
