@@ -16,4 +16,4 @@
  * Administrator deletes event
  * Administrator edits schedule to delete user from an event
 
-![](images/image (22).png
+![](images/image%20(22).png
