@@ -16,4 +16,4 @@
  * Administrator deletes event
  * Administrator edits schedule to delete user from an event
  
-[schema](https://github.com/graham-graham/IS437-Project-Graham/blob/master/image%20(22).png)
+[schema](https://github.com/graham-graham/IS437-Project-Graham/blob/master/image%20(23).png)
